@@ -1,0 +1,75 @@
+
+{
+    "productos": [
+    {
+    "nombre": "Coca-Cola 500ml",
+    "precio": 1.5,
+    "descripcion": "Bebida gaseosa refrescante",
+    "categoria": "Bebidas",
+    "marca": "Coca-Cola"
+    },
+    {
+    "nombre": "Pepsi 500ml",
+    "precio": 1.4,
+    "descripcion": "Bebida gaseosa con sabor a cola",
+    "categoria": "Bebidas",
+    "marca": "Pepsi"
+    },
+    {
+    "nombre": "Papas Lays Clásicas 150g",
+    "precio": 2.0,
+    "descripcion": "Papas fritas crujientes",
+    "categoria": "Snacks",
+    "marca": "Lays"
+    },
+    {
+    "nombre": "Doritos Nacho 150g",
+    "precio": 2.2,
+    "descripcion": "Nachos con sabor a queso",
+    "categoria": "Snacks",
+    "marca": "Doritos"
+    },
+    {
+    "nombre": "Leche Alpina 1L",
+    "precio": 3.5,
+    "descripcion": "Leche entera pasteurizada",
+    "categoria": "Lácteos",
+    "marca": "Alpina"
+    },
+    {
+    "nombre": "Yogur Finesse 150g",
+    "precio": 1.8,
+    "descripcion": "Yogur descremado con frutas",
+    "categoria": "Lácteos",
+    "marca": "Alpina"
+    },
+    {
+    "nombre": "Arroz Diana 1kg",
+    "precio": 4.0,
+    "descripcion": "Arroz blanco de grano largo",
+    "categoria": "Granos",
+    "marca": "Diana"
+    },
+    {
+    "nombre": "Frijoles Cargamanto 500g",
+    "precio": 2.5,
+    "descripcion": "Frijoles rojos cargamanto",
+    "categoria": "Granos",
+    "marca": "Rica Granja"
+    },
+    {
+    "nombre": "Aceite Gourmet 1L",
+    "precio": 5.0,
+    "descripcion": "Aceite vegetal para cocinar",
+    "categoria": "Despensa",
+    "marca": "Gourmet"
+    },
+    {
+    "nombre": "Pan Bimbo Integral 500g",
+    "precio": 3.0,
+    "descripcion": "Pan de molde integral",
+    "categoria": "Panadería",
+    "marca": "Bimbo"
+    }
+]
+}

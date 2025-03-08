@@ -1,0 +1,13 @@
+{
+    "users": [
+      {
+        "user": "admin",
+        "pass": "123456"
+      },
+      {
+        "user": "vendedor",
+        "pass": "123456"
+      }
+    ]
+  }
+  
